@@ -1,2 +1,2 @@
-# primeiro-rep-jedi
+# Meu primeiro repositório GitHub - jedi
 Formação JavaScript
